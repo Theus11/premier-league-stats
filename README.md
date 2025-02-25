@@ -1,6 +1,6 @@
 # Premier League Performance Analysis
 
-![Sample Output](cumulative_points.png)
+![Sample Output](output/cumulative_points.png)
 
 A technical demonstration of data analysis capabilities using Python's core scientific stack. Processes raw match data to calculate team performance metrics and generates professional visualizations.
 
